@@ -11,7 +11,7 @@ I am glad that you found me and hope you find what you are looking for. I grew u
 [![GitHub](https://img.shields.io/badge/Handshake-Trevik_peterson-purple)](https://app.joinhandshake.com/users/12597339)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=trevik-peterson&theme=radical)](https://github.com/trevik-peterson/github-readme-stats)
-<!--![Trevik's github stats](https://github-readme-stats.vercel.app/api?username=Launchpaddy&show_icons=true&theme=radical) -->
+<!--![Trevik's github stats](https://github-readme-stats.vercel.app/api?username=trevik-peterson&show_icons=true&theme=radical) -->
 
 
 <!--
